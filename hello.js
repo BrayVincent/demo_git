@@ -1,2 +1,2 @@
-Var message = "Hello!"
+Var message = "Hello!";
 alert(message)
